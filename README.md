@@ -1,2 +1,2 @@
-# scottstots.github.io
+# http://scottstots.github.io
 Scotts Tots
